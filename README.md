@@ -10,16 +10,15 @@
 
 ###
 
-<p align="center">Computer Science Student, Scratch Instructor at Kodland<br>Robotics, ML, Web Development, Mobile Development</p>
+<p align="center">Computer Science Student</p>
 
 ###
 
-<p align="left">The person that always looking to improve himself. 👨‍🍼<br>Working in various projects such as CardioWell, Human Resources Management System, AGV. 🤖<br>Currently Focusing on Machine Learning. Trying to learning knowledge about Cyber-Security 🐱‍💻</p>
+<p align="left">The person that always looking to improve himself. 👨‍🍼</p>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="53" alt="csharp logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="53" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="53" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" width="53" alt="spring logo"  />
@@ -39,9 +38,7 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/ynskaydan/ynskaydan/output/snake.svg" alt="Snake animation" />
 
 ###
 
